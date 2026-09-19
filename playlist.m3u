@@ -1,8 +1,12 @@
 #EXTM3U
 #PLAYLIST:On Air
-# Updated 2026-09-19T03:27:59.410Z · English, Spanish, French · working streams only
+# Updated 2026-09-19T03:42:12.622Z · English, Spanish, French · working streams only
 #EXTINF:-1 tvg-id="A2CNN.al" tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-language="English" group-title="Albania",A2 CNN Albania
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="" tvg-language="English" group-title="Animals + Nature",BBC Earth
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/656535fc2c46f30008870fae/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="PBS Nature" tvg-logo="" tvg-language="English" group-title="Animals + Nature",PBS Nature
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/640a64bd73e013000893d4e0/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="Tokusato.us@Brazil" tvg-name="Tokusato" tvg-logo="https://i.imgur.com/tWpjXtl.png" tvg-language="English" group-title="Animation",Tokusato
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralSouthPark.de@DACH" tvg-name="Comedy Central South Park (Germany)" tvg-logo="https://images.pluto.tv/channels/60c716084d842c00085f6e64/colorLogoPNG_1748434979824.png" tvg-language="English" group-title="Animation;Comedy",Comedy Central South Park (Germany)
@@ -113,8 +117,14 @@ https://86fdc85a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2
 https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNBCe.tr@SD" tvg-name="CNBC-e" tvg-logo="https://s.cnbce.com/dist/images/logo-nav.png" tvg-language="English" group-title="Business;Series",CNBC-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="America's Funniest Home Videos" tvg-logo="" tvg-language="English" group-title="Comedy",America's Funniest Home Videos
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/691cf0410a78a9ce61ad2121/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="BETThrowbacks.us@SD" tvg-name="BET Throwbacks" tvg-logo="https://images.pluto.tv/channels/61326275b3c86a00078e4833/colorLogoPNG_1759340015358.png" tvg-language="English" group-title="Comedy",BET Throwbacks
 https://jmp2.uk/plu-61326275b3c86a00078e4833.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BET Throwbacks" tvg-logo="" tvg-language="English" group-title="Comedy",BET Throwbacks
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/61326275b3c86a00078e4833/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="BET x Tyler Perry Comedy" tvg-logo="" tvg-language="English" group-title="Comedy",BET x Tyler Perry Comedy
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/666b265722acab000885c6aa/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="BritishComedy.us@CA" tvg-name="British Comedy" tvg-logo="https://images.pluto.tv/channels/638e11951177840007fdd6b2/colorLogoPNG_1745597179027.png" tvg-language="English" group-title="Comedy",British Comedy
 https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.de@SD" tvg-name="Comedy Central (Germany)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-language="English" group-title="Comedy",Comedy Central (Germany)
@@ -133,12 +143,16 @@ https://jmp2.uk/plu-5cf96dad1652631e36d43320.m3u8
 http://15.204.246.24:8080/ComedyCentralHD/index.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@US" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" tvg-language="English" group-title="Comedy",Comedy Central Pluto TV
 https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central Pluto TV" tvg-logo="" tvg-language="English" group-title="Comedy",Comedy Central Pluto TV
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="ComedyCentralPlutoTV.us@BR" tvg-name="Comedy Central Pluto TV BR" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" tvg-language="English" group-title="Comedy",Comedy Central Pluto TV BR
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 tvg-id="NBCComedyVault.us@SD" tvg-name="NBC Comedy Vault (1080p)" tvg-logo="https://i.imgur.com/nydZWwg.png" tvg-language="English" group-title="Comedy",NBC Comedy Vault (1080p)
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="USANetwork.us@East" tvg-name="USA Network (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/960px-USA_Network_logo_%282016%29.svg.png" tvg-language="English" group-title="Comedy;Movies;Series;Sports",USA Network (1080p)
 http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="America's Next Top Model" tvg-logo="" tvg-language="English" group-title="Competition Reality",America's Next Top Model
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68757c45759366af05b3b199/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="AmericasTestKitchen.us@SD" tvg-name="America's Test Kitchen (720p)" tvg-logo="https://i.imgur.com/prMkTsZ.png" tvg-language="English" group-title="Cooking",America's Test Kitchen (720p)
 https://jmp2.uk/plu-5e84f54a82f05300080e6746.m3u8
 #EXTINF:-1 tvg-id="BBCFood.us@SD" tvg-name="BBC Food (1080p)" tvg-logo="https://i.imgur.com/kcmHcSx.png" tvg-language="English" group-title="Cooking",BBC Food (1080p)
@@ -215,6 +229,8 @@ https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-a
 https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="PlutoTVAmericanTrueCrime.de@GB" tvg-name="Pluto TV American True Crime" tvg-logo="https://images.pluto.tv/channels/692ebafce72f03e07e7df985/colorLogoPNG_1768902223754.png" tvg-language="English" group-title="Documentary;Series",Pluto TV American True Crime
 https://jmp2.uk/plu-692ebafce72f03e07e7df985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BET x Tyler Perry Drama" tvg-logo="" tvg-language="English" group-title="Drama",BET x Tyler Perry Drama
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/666b38a5efa2a10008b15b3a/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="EBSEnglish.kr@SD" tvg-name="EBS English (400p) [Not 24/7]" tvg-logo="https://i.imgur.com/5wLJzb0.png" tvg-language="English" group-title="Education",EBS English (400p) [Not 24/7]
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" tvg-name="English Club TV (576i)" tvg-logo="https://i.imgur.com/9FMvaRK.png" tvg-language="English" group-title="Education",English Club TV (576i)
@@ -251,6 +267,26 @@ https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
 #EXTINF:-1 tvg-id="PBSKidsPacific.us@SD" tvg-name="PBS Kids Pacific (1080p)" tvg-logo="https://i.imgur.com/ambc9le.png" tvg-language="English" group-title="Education;Kids",PBS Kids Pacific (1080p)
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS en español" tvg-logo="" tvg-language="English" group-title="En Español",CBS en español
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/668c5cb4f01dbe0008dd4082/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Cine en español" tvg-logo="" tvg-language="English" group-title="En Español",Cine en español
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CNN Noticias" tvg-logo="" tvg-language="English" group-title="En Español",CNN Noticias
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/673248f9030a2c0008033af8/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central en español" tvg-logo="" tvg-language="English" group-title="En Español",Comedy Central en español
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5cf96dad1652631e36d43320/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CSI en Español" tvg-logo="" tvg-language="English" group-title="En Español",CSI en Español
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/604928d54a4f730007ff76bc/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CSI: Miami en español" tvg-logo="" tvg-language="English" group-title="En Español",CSI: Miami en español
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/632b5950b515b000079e6b81/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CSI: NY en español" tvg-logo="" tvg-language="English" group-title="En Español",CSI: NY en español
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/632b606e12a67b0007c9e371/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="MTV en español" tvg-logo="" tvg-language="English" group-title="En Español",MTV en español
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5cf96d351652631e36d4331f/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Star Trek en español" tvg-logo="" tvg-language="English" group-title="En Español",Star Trek en español
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6049295e7dcef800073c2499/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead en español" tvg-logo="" tvg-language="English" group-title="En Español",The Walking Dead en español
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="AE.us@East" tvg-name="A&E (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" tvg-language="English" group-title="Entertainment",A&E (720p)
 http://23.239.31.26:8989/aande/index.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us@Panregional" tvg-name="A&E Latin America (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" tvg-language="English" group-title="Entertainment",A&E Latin America (1080p)
@@ -275,6 +311,8 @@ https://jmp2.uk/plu-632afdf820e83e000710ea12.m3u8
 https://jmp2.uk/plu-632afc466699570007ed1106.m3u8
 #EXTINF:-1 tvg-id="BETClassicsPlutoTV.us@SD" tvg-name="BET Classics Pluto TV" tvg-logo="https://images.pluto.tv/channels/60f85644a9493e0007a1f035/colorLogoPNG_1759339662769.png" tvg-language="English" group-title="Entertainment",BET Classics Pluto TV
 https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BET Pluto TV" tvg-logo="" tvg-language="English" group-title="Entertainment",BET Pluto TV
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="BETPlutoTV.de@GB" tvg-name="BET Pluto TV (Germany)" tvg-logo="https://images.pluto.tv/channels/604f8f8622166000071a929f/colorLogoPNG.png" tvg-language="English" group-title="Entertainment",BET Pluto TV (Germany)
 https://jmp2.uk/plu-604f8f8622166000071a929f.m3u8
 #EXTINF:-1 tvg-id="BETPlutoTV.us@US" tvg-name="BET Pluto TV (United States)" tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1756804608228.png" tvg-language="English" group-title="Entertainment",BET Pluto TV (United States)
@@ -295,6 +333,8 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 http://15.204.246.24:8080/FXHD/index.m3u8
 #EXTINF:-1 tvg-id="FXLatinAmerica.us@South" tvg-name="FX Latin America South (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/960px-FX_International_logo.svg.png" tvg-language="English" group-title="Entertainment",FX Latin America South (720p)
 http://72.1.184.5:8089/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Movies & More" tvg-logo="" tvg-language="English" group-title="Entertainment",Hallmark Movies & More
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/628e685ba3811100070551a8/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="ICTV.ua@SD" tvg-name="ICTV (Ukraine) (1080p)" tvg-logo="https://i.imgur.com/97W1NOW.png" tvg-language="English" group-title="Entertainment",ICTV (Ukraine) (1080p)
 http://stream.mcquack.net/158/index.m3u8
 #EXTINF:-1 tvg-id="ICTV2.ua@SD" tvg-name="ICTV2 (1080p)" tvg-logo="https://i.imgur.com/J4zlRGv.png" tvg-language="English" group-title="Entertainment",ICTV2 (1080p)
@@ -307,6 +347,8 @@ http://4.30.180.36:8420/lifetime/index.m3u8?token=test
 http://138.121.15.230:9002/LIFETIME/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil" tvg-name="Lifetime Latin America Brazil (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" tvg-language="English" group-title="Entertainment",Lifetime Latin America Brazil (720p)
 http://170.83.16.50/LIFETIME/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime Movie Favorites" tvg-logo="" tvg-language="English" group-title="Entertainment",Lifetime Movie Favorites
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/63335b193583440007c859fb/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="MiTV.py@SD" tvg-name="MiTV (720p)" tvg-logo="https://i.imgur.com/sgrEt9z.png" tvg-language="English" group-title="Entertainment",MiTV (720p)
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 #EXTINF:-1 tvg-id="MTV.fr@SD" tvg-name="MTV (France)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-language="English" group-title="Entertainment",MTV (France)
@@ -365,6 +407,8 @@ https://jmp2.uk/plu-62ac3d7dc23b400008ae5b5a.m3u8
 https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
 #EXTINF:-1 tvg-id="MTVOriginals.de@ES" tvg-name="MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" tvg-language="English" group-title="Entertainment",MTV Originals
 https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Pluto TV" tvg-logo="" tvg-language="English" group-title="Entertainment",MTV Pluto TV
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="MTVPlutoTV.de@DACH" tvg-name="MTV Pluto TV (Germany)" tvg-logo="https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png" tvg-language="English" group-title="Entertainment",MTV Pluto TV (Germany)
 https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
 #EXTINF:-1 tvg-id="MTVPlutoTV.us@US" tvg-name="MTV Pluto TV (United States)" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png" tvg-language="English" group-title="Entertainment",MTV Pluto TV (United States)
@@ -411,6 +455,8 @@ http://198.58.104.90:8989/mtv2/index.m3u8
 http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="NBCLX.us@SD" tvg-name="NBCLX (1080p)" tvg-logo="https://i.imgur.com/5iT7hEa.png" tvg-language="English" group-title="Entertainment",NBCLX (1080p)
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ Picks" tvg-logo="" tvg-language="English" group-title="Entertainment",Paramount+ Picks
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5ff8c708653d080007361b14/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us@SD" tvg-name="Pasiones Latin America (1080p)" tvg-logo="https://i.imgur.com/VGnbWjO.png" tvg-language="English" group-title="Entertainment",Pasiones Latin America (1080p)
 http://15.204.246.24:8080/PasionesHD/index.m3u8
 #EXTINF:-1 tvg-id="StoriesbyAMC.us@SD" tvg-name="Stories by AMC" tvg-logo="https://i.imgur.com/QJtwJoS.png" tvg-language="English" group-title="Entertainment",Stories by AMC
@@ -437,6 +483,8 @@ http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 https://the-pet-collective-international-au.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Paramount" tvg-logo="" tvg-language="English" group-title="FILMES & SÉRIES",Paramount
 http://up.kiwi/351921603109/34939156/829.ts
+#EXTINF:-1 tvg-id="AVA.fi" tvg-name="MTV Ava" tvg-logo="https://i.imgur.com/rtyJVgB.png" tvg-language="English" group-title="Finland",MTV Ava
+https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="Sub.fi" tvg-name="MTV Sub" tvg-logo="https://i.imgur.com/VRCuxQt.png" tvg-language="English" group-title="Finland",MTV Sub
 https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 #EXTINF:-1 tvg-id="MTV3.fi" tvg-name="MTV3" tvg-logo="https://i.imgur.com/kNbmc8n.png" tvg-language="English" group-title="Finland",MTV3
@@ -619,6 +667,20 @@ https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 https://amg17596-ntdtv-amg17596c1-rakuten-gb-6741.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="NTDTVEnglish.us@UK" tvg-name="NTD TV English UK (1080p)" tvg-logo="https://i.imgur.com/26uv1ww.png" tvg-language="English" group-title="General;News",NTD TV English UK (1080p)
 https://ntd02.akamaized.net/NTD-UK/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Originals" tvg-logo="" tvg-language="English" group-title="History + Science",CNN Originals
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/66e0b4536ad04d0008fff4b2/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="America's Test Kitchen" tvg-logo="" tvg-language="English" group-title="Home + Food",America's Test Kitchen
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e84f54a82f05300080e6746/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Best of Bobby Flay by Food Network" tvg-logo="" tvg-language="English" group-title="Home + Food",Best of Bobby Flay by Food Network
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68bb167e00a2f063fdf7ee8f/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Chef vs Chef by Food Network" tvg-logo="" tvg-language="English" group-title="Home + Food",Chef vs Chef by Food Network
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68bb16a500a2f063fdf89f8c/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Delicious Eats by Food Network" tvg-logo="" tvg-language="English" group-title="Home + Food",Delicious Eats by Food Network
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68bb16ba3efb41cd971f3ce6/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Home Cooking by Food Network" tvg-logo="" tvg-language="English" group-title="Home + Food",Home Cooking by Food Network
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68bb16916523408b14bac7f8/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="PBS Antiques Roadshow" tvg-logo="" tvg-language="English" group-title="Home + Food",PBS Antiques Roadshow
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/636c2b3c55d2e700074105c4/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="" tvg-name="CityTV (Belváros Lipótváros)" tvg-logo="https://citytv.hu/wp-content/uploads/2023/12/cropped-citytv.png" tvg-language="English" group-title="Hungary",CityTV (Belváros Lipótváros)
 https://citytv.hu/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Disney Channel" tvg-logo="" tvg-language="English" group-title="INFANTIS",Disney Channel
@@ -683,6 +745,8 @@ http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 http://185.227.34.179:8080/disney-xd/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-name="Disney XD (United States) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/960px-2015_Disney_XD_logo.svg.png" tvg-language="English" group-title="Kids",Disney XD (United States) (720p)
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mister Rogers' Neighborhood" tvg-logo="" tvg-language="English" group-title="Kids",Mister Rogers' Neighborhood
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/65e23f340d4561000821540d/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="Nickelodeon.br@SD" tvg-name="Nickelodeon (Brazil) (480p)" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-language="English" group-title="Kids",Nickelodeon (Brazil) (480p)
 https://stmv2.srvif.com/gafeab/gafeab/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-name="Nickelodeon (Bulgaria) (576p)" tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-language="English" group-title="Kids",Nickelodeon (Bulgaria) (576p)
@@ -711,8 +775,12 @@ https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
 #EXTINF:-1 tvg-id="Nickelodeonenespanol.us@SD" tvg-name="Nickelodeon en espanol" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" tvg-language="English" group-title="Kids",Nickelodeon en espanol
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon en español" tvg-logo="" tvg-language="English" group-title="Kids",Nickelodeon en español
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" tvg-name="Nickelodeon Junior (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" tvg-language="English" group-title="Kids",Nickelodeon Junior (1080p)
 http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon Pluto TV" tvg-logo="" tvg-language="English" group-title="Kids",Nickelodeon Pluto TV
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="NickelodeonTeen.de@DACH" tvg-name="Nickelodeon Teen (Germany) (720p)" tvg-logo="https://images.pluto.tv/channels/5f0d668b872e4400073acc68/colorLogoPNG_1750753617970.png" tvg-language="English" group-title="Kids",Nickelodeon Teen (Germany) (720p)
 https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us@BR" tvg-name="Nickelodeon Teen (United States) (720p)" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" tvg-language="English" group-title="Kids",Nickelodeon Teen (United States) (720p)
@@ -739,6 +807,34 @@ https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
 https://tgn.bozztv.com/betterlife/betterhealth/betterhealth/index.m3u8
 #EXTINF:-1 tvg-id="PBSTravel.us@SD" tvg-name="PBS Travel (1080p)" tvg-logo="https://i.imgur.com/A6GXhta.png" tvg-language="English" group-title="Lifestyle",PBS Travel (1080p)
 https://d3hqevbyoxtkoi.cloudfront.net/PBS_Travel.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Baltimore" tvg-logo="" tvg-language="English" group-title="Local News",CBS News Baltimore
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60f75919718aed0007250d7a/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Bay Area" tvg-logo="" tvg-language="English" group-title="Local News",CBS News Bay Area
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Boston" tvg-logo="" tvg-language="English" group-title="Local News",CBS News Boston
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Chicago" tvg-logo="" tvg-language="English" group-title="Local News",CBS News Chicago
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Colorado" tvg-logo="" tvg-language="English" group-title="Local News",CBS News Colorado
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Detroit" tvg-logo="" tvg-language="English" group-title="Local News",CBS News Detroit
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/634f2610d5023700078f7dee/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Los Angeles" tvg-logo="" tvg-language="English" group-title="Local News",CBS News Los Angeles
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Miami" tvg-logo="" tvg-language="English" group-title="Local News",CBS News Miami
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60fb299b79498900070b29e0/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Minnesota" tvg-logo="" tvg-language="English" group-title="Local News",CBS News Minnesota
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News New York" tvg-logo="" tvg-language="English" group-title="Local News",CBS News New York
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5dc48170e280c80009a861ab/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Philadelphia" tvg-logo="" tvg-language="English" group-title="Local News",CBS News Philadelphia
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Pittsburgh" tvg-logo="" tvg-language="English" group-title="Local News",CBS News Pittsburgh
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Sacramento" tvg-logo="" tvg-language="English" group-title="Local News",CBS News Sacramento
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60cb6df2b2ad610008cd5bea/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Texas" tvg-logo="" tvg-language="English" group-title="Local News",CBS News Texas
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="AMC.us@EastHD" tvg-name="AMC (United States) (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-language="English" group-title="Movies",AMC (United States) (720p)
 http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-id="AMC.us@East" tvg-name="AMC (United States) East (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-language="English" group-title="Movies",AMC (United States) East (720p)
@@ -763,16 +859,24 @@ http://190.11.225.124:5000/live/axn_hd/playlist.m3u8
 http://45.228.235.116:8000/play/a0iy/index.m3u8
 #EXTINF:-1 tvg-id="BETCinema.us@SD" tvg-name="BET Cinema" tvg-logo="https://images.pluto.tv/channels/58af4c093a41ca9d4ecabe96/colorLogoPNG_1759338280891.png" tvg-language="English" group-title="Movies",BET Cinema
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BET Cinema" tvg-logo="" tvg-language="English" group-title="Movies",BET Cinema
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="BETComedyMovies.us@SD" tvg-name="BET Comedy Movies" tvg-logo="https://images.pluto.tv/channels/68c32d88f56983aba40052bd/colorLogoPNG_1759246622596.png" tvg-language="English" group-title="Movies",BET Comedy Movies
 https://jmp2.uk/plu-68c32d88f56983aba40052bd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BET Comedy Movies" tvg-logo="" tvg-language="English" group-title="Movies",BET Comedy Movies
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/68c32d88f56983aba40052bd/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="BETVisionaries.us@SD" tvg-name="BET Visionaries" tvg-logo="https://images.pluto.tv/channels/663946c1b18d700008d9c168/colorLogoPNG_1759338795452.png" tvg-language="English" group-title="Movies",BET Visionaries
 https://jmp2.uk/plu-663946c1b18d700008d9c168.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BET Visionaries" tvg-logo="" tvg-language="English" group-title="Movies",BET Visionaries
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/663946c1b18d700008d9c168/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="Film4.hu@SD" tvg-name="Film4" tvg-logo="https://i.imgur.com/X5N8CHf.png" tvg-language="English" group-title="Movies",Film4
 http://88.212.15.19/live/film4_hun/index.m3u8
 #EXTINF:-1 tvg-id="HallmarkMoviesMore.us@SD" tvg-name="Hallmark Movies & More (1080p)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" tvg-language="English" group-title="Movies",Hallmark Movies & More (1080p)
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us@SD" tvg-name="Paramount Movie Channel" tvg-logo="https://i.imgur.com/sj5h9bl.png" tvg-language="English" group-title="Movies",Paramount Movie Channel
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Movie Channel" tvg-logo="" tvg-language="English" group-title="Movies",Paramount Movie Channel
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="ParamountNetworkdePlutoTV.de@ES" tvg-name="Paramount Network de Pluto TV" tvg-logo="https://images.pluto.tv/channels/68d566603d3a9580eb461251/colorLogoPNG_1762199133146.png" tvg-language="English" group-title="Movies",Paramount Network de Pluto TV
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
 #EXTINF:-1 tvg-id="ParamountPlusPicks.us@SD" tvg-name="Paramount+ Picks" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" tvg-language="English" group-title="Movies",Paramount+ Picks
@@ -933,6 +1037,30 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
 https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="USATODAY.us@SD" tvg-name="USA TODAY (1080p)" tvg-logo="https://i.imgur.com/37K0AZX.png" tvg-language="English" group-title="News",USA TODAY (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ABC News Live" tvg-logo="" tvg-language="English" group-title="News + Opinion",ABC News Live
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6508be683a0d700008c534e4/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="America's Voice News" tvg-logo="" tvg-language="English" group-title="News + Opinion",America's Voice News
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e1f7da4bc7d740009831259/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="" tvg-language="English" group-title="News + Opinion",BBC News
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg TV+" tvg-logo="" tvg-language="English" group-title="News + Opinion",Bloomberg TV+
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/54ff7ba69222cb1c2624c584/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News 24/7" tvg-logo="" tvg-language="English" group-title="News + Opinion",CBS News 24/7
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a617379789618/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Boston" tvg-logo="" tvg-language="English" group-title="News + Opinion",CBS News Boston
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/62cdc7c2a3e6270007f3f2f3/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Colorado" tvg-logo="" tvg-language="English" group-title="News + Opinion",CBS News Colorado
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/62cdc8709e20de00073045a5/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News Los Angeles" tvg-logo="" tvg-language="English" group-title="News + Opinion",CBS News Los Angeles
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5dc9b875e280c80009a8a44a/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CBS News New York" tvg-logo="" tvg-language="English" group-title="News + Opinion",CBS News New York
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5dc9b8223687ff000936ed79/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="CNN HEADLINES" tvg-logo="" tvg-language="English" group-title="News + Opinion",CNN HEADLINES
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="NBC News NOW" tvg-logo="" tvg-language="English" group-title="News + Opinion",NBC News NOW
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="" tvg-language="English" group-title="News + Opinion",Sky News
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66f/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="ESPNews.us@SD" tvg-name="ESPNews (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png" tvg-language="English" group-title="News;Sports",ESPNews (720p)
 http://41.205.93.154/ESPNNEWS/index.m3u8
 #EXTINF:-1 tvg-id="KCTV.kp" tvg-name="KCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_of_the_Korean_Central_Television.svg/500px-Logo_of_the_Korean_Central_Television.svg.png" tvg-language="English" group-title="North Korea",KCTV
@@ -943,6 +1071,12 @@ https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SwamijiTVAustralian.at@SD" tvg-name="Swamiji TV Australian (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/nrLcuzs.png" tvg-language="English" group-title="Outdoor",Swamiji TV Australian (1080p) [Not 24/7]
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Matched Married Meet by Lifetime" tvg-logo="" tvg-language="English" group-title="Reality",Matched Married Meet by Lifetime
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6887a86be3703b7d42b3eca3/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Storage Wars by A&E" tvg-logo="" tvg-language="English" group-title="Reality",Storage Wars by A&E
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6887aaf4e3703b7d42b71a1e/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Queens of Reality" tvg-logo="" tvg-language="English" group-title="Reality",VH1 Queens of Reality
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/66abefe5d2d50d00082c7d12/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="BetterLifeNatureChannel.us@SD" tvg-name="Better Life Nature Channel (480p)" tvg-logo="https://i.imgur.com/D8Vuw6I.png" tvg-language="English" group-title="Relax",Better Life Nature Channel (480p)
 https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1 tvg-id="3ABNEnglish.us@SD" tvg-name="3ABN English" tvg-logo="https://i.imgur.com/16DMxP4.png" tvg-language="English" group-title="Religious",3ABN English
@@ -1043,8 +1177,12 @@ https://d3mr43kyql7wgk.cloudfront.net/PBS_Nature.m3u8
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us@SD" tvg-name="CBS Sports Golazo Network (720p)" tvg-logo="https://i.imgur.com/eMjutHS.png" tvg-language="English" group-title="Sports",CBS Sports Golazo Network (720p)
 https://dai.google.com/linear/hls/event/7f3Wv6f7QEKfQna22jHqLQ/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CBS Sports HQ" tvg-logo="" tvg-language="English" group-title="Sports",CBS Sports HQ
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="CBSSportsHQ.us@SD" tvg-name="CBS Sports HQ (720p)" tvg-logo="https://i.imgur.com/q8BENJg.png" tvg-language="English" group-title="Sports",CBS Sports HQ (720p)
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo TV" tvg-logo="" tvg-language="English" group-title="Sports",Discovery Turbo TV
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6400f731d200410008f9b339/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="ESPN.br@SD" tvg-name="ESPN (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" tvg-language="English" group-title="Sports",ESPN (1080p)
 http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-name="ESPN 4 (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" tvg-language="English" group-title="Sports",ESPN 4 (1080p)
@@ -1061,6 +1199,8 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 http://15.204.246.24:8080/GolfChannelHD/index.m3u8
 #EXTINF:-1 tvg-id="NBATV.us@SD" tvg-name="NBA TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/960px-NBA_TV.svg.png" tvg-language="English" group-title="Sports",NBA TV (1080p)
 https://cdn1.ayitistream.com/NBATV/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports NOW" tvg-logo="" tvg-language="English" group-title="Sports",NBC Sports NOW
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6549306c83595c000815a696/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" tvg-name="NBC Sports NOW (1080p)" tvg-logo="https://i.imgur.com/EzNf2Yx.png" tvg-language="English" group-title="Sports",NBC Sports NOW (1080p)
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 tvg-id="NHLNetwork.us@SD" tvg-name="NHL Network (1080p)" tvg-logo="https://i.imgur.com/UNZ8bef.png" tvg-language="English" group-title="Sports",NHL Network (1080p)
@@ -1073,6 +1213,14 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 #EXTINF:-1 tvg-id="bipbop.en" tvg-name="BipBop HLS" tvg-logo="" tvg-language="English" group-title="Test · English",BipBop HLS
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E Crime 360" tvg-logo="" tvg-language="English" group-title="True Crime",A&E Crime 360
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6000a5a9e767980007b497ca/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="American Crimes" tvg-logo="" tvg-language="English" group-title="True Crime",American Crimes
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/65492fc7056b9700088560b5/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Cold Case Files by A&E" tvg-logo="" tvg-language="English" group-title="True Crime",Cold Case Files by A&E
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5c37d6712de254456f7ec340/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="The First 48 by A&E" tvg-logo="" tvg-language="English" group-title="True Crime",The First 48 by A&E
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6887aaade3703b7d42b64be8/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="ArirangWorld.kr" tvg-name="Arirang World" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/67cfa9368d2d135744732a3aed3baecb3fadcf13/countries/international/arirang-int.png" tvg-language="English" group-title="UK",Arirang World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/500px-BBC_News_2022_%28Alt%29.svg.png" tvg-language="English" group-title="UK",BBC News
@@ -1121,6 +1269,118 @@ http://cdnua05.hls.tv/624/hls/f62d71219200da4130d13b21d23fb23c/4896/stream.m3u8
 http://cdnua05.hls.tv/919/hls/8743361621b245838bee193c9ec28322/4835/stream.m3u8
 #EXTINF:-1 tvg-id="ITV.ua" tvg-name="ITV" tvg-logo="https://i.imgur.com/NZdT9yJ.png" tvg-language="English" group-title="Ukraine",ITV
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="big.ten.network.fhd.us" tvg-name="Big Ten Network FHD US" tvg-logo="https://logo.m3uassets.com/bigtennetwork.png" tvg-language="English" group-title="UltraTV One",Big Ten Network FHD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/11898.m3u8
+#EXTINF:-1 tvg-id="big.ten.network.overflow.2.hd.us" tvg-name="Big Ten Network Overflow 2 HD US" tvg-logo="https://logo.m3uassets.com/bigtennetworkoverflow2.png" tvg-language="English" group-title="UltraTV One",Big Ten Network Overflow 2 HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/687681.m3u8
+#EXTINF:-1 tvg-id="big.ten.network.overflow.3.hd.us" tvg-name="Big Ten Network Overflow 3 HD US" tvg-logo="https://logo.m3uassets.com/bigtennetworkoverflow3.png" tvg-language="English" group-title="UltraTV One",Big Ten Network Overflow 3 HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/687682.m3u8
+#EXTINF:-1 tvg-id="big.ten.network.overflow.4.hd.us" tvg-name="Big Ten Network Overflow 4 HD US" tvg-logo="https://logo.m3uassets.com/bigtennetworkoverflow4.png" tvg-language="English" group-title="UltraTV One",Big Ten Network Overflow 4 HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/687683.m3u8
+#EXTINF:-1 tvg-id="cbs.31.wmbd.peoria.hd.us" tvg-name="CBS 31 (WMBD) Peoria HD US" tvg-logo="https://www.nexstar.tv/wp-content/uploads/2016/05/wmbd-050916.jpg" tvg-language="English" group-title="UltraTV One",CBS 31 (WMBD) Peoria HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71860.m3u8
+#EXTINF:-1 tvg-id="cbs.us" tvg-name="CBS US" tvg-logo="https://logos-world.net/wp-content/uploads/2020/08/CBS-Symbol.png" tvg-language="English" group-title="UltraTV One",CBS US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114277.m3u8
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="CNBC US" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/37/85/06/3785062d-1e97-bfd4-ae3e-25950228ef30/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/246x0w.png" tvg-language="English" group-title="UltraTV One",CNBC US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116091.m3u8
+#EXTINF:-1 tvg-id="cnn.us" tvg-name="CNN US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/1200px-CNN.svg.png" tvg-language="English" group-title="UltraTV One",CNN US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116090.m3u8
+#EXTINF:-1 tvg-id="espn.2.fhd.us" tvg-name="ESPN 2 FHD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" tvg-language="English" group-title="UltraTV One",ESPN 2 FHD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/42910.m3u8
+#EXTINF:-1 tvg-id="espn.2.hd.us" tvg-name="ESPN 2 HD US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2000px-ESPN2_logo.svg.png" tvg-language="English" group-title="UltraTV One",ESPN 2 HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/10881.m3u8
+#EXTINF:-1 tvg-id="espn.2.us" tvg-name="ESPN 2 US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" tvg-language="English" group-title="UltraTV One",ESPN 2 US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115984.m3u8
+#EXTINF:-1 tvg-id="espn.backup.us" tvg-name="ESPN BACKUP US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" tvg-language="English" group-title="UltraTV One",ESPN BACKUP US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116037.m3u8
+#EXTINF:-1 tvg-id="espn.deportes.us" tvg-name="ESPN Deportes US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_Deportes.svg/1920px-ESPN_Deportes.svg.png" tvg-language="English" group-title="UltraTV One",ESPN Deportes US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116005.m3u8
+#EXTINF:-1 tvg-id="espn.hd.us" tvg-name="ESPN HD US" tvg-logo="https://logo.m3uassets.com/espn.png" tvg-language="English" group-title="UltraTV One",ESPN HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/9660.m3u8
+#EXTINF:-1 tvg-id="espn.news.fhd.us" tvg-name="ESPN News FHD US" tvg-logo="https://www.pikpng.com/pngl/m/48-489705_http-espn-news-channel-logo-png-clipart.png" tvg-language="English" group-title="UltraTV One",ESPN News FHD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/42908.m3u8
+#EXTINF:-1 tvg-id="espn.news.hd.us" tvg-name="ESPN News HD US" tvg-logo="https://logo.m3uassets.com/espnnews.png" tvg-language="English" group-title="UltraTV One",ESPN News HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/11583.m3u8
+#EXTINF:-1 tvg-id="espn.sec.network.us" tvg-name="ESPN SEC Network US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/SEC_Network_%282024%29.svg/1200px-SEC_Network_%282024%29.svg.png" tvg-language="English" group-title="UltraTV One",ESPN SEC Network US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116038.m3u8
+#EXTINF:-1 tvg-id="espn.u.fhd.us" tvg-name="ESPN U FHD US" tvg-logo="https://logo.m3uassets.com/espnu.png" tvg-language="English" group-title="UltraTV One",ESPN U FHD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/42907.m3u8
+#EXTINF:-1 tvg-id="espn.u.us" tvg-name="ESPN U US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/2560px-ESPN_wordmark.svg.png" tvg-language="English" group-title="UltraTV One",ESPN U US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115985.m3u8
+#EXTINF:-1 tvg-id="food.network.east.us" tvg-name="Food Network East US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Food_Network.svg/1019px-Food_Network.svg.png" tvg-language="English" group-title="UltraTV One",Food Network East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114323.m3u8
+#EXTINF:-1 tvg-id="food.network.west.us" tvg-name="Food Network West US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" tvg-language="English" group-title="UltraTV One",Food Network West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114324.m3u8
+#EXTINF:-1 tvg-id="fox.news.channel.hd.us" tvg-name="Fox News Channel HD US" tvg-logo="https://logo.m3uassets.com/foxnewschannel.png" tvg-language="English" group-title="UltraTV One",Fox News Channel HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/71657.m3u8
+#EXTINF:-1 tvg-id="fx.east.us" tvg-name="FX East US" tvg-logo="https://www.watchtheamericans.com/wp-content/uploads/2014/04/731px-FX-logo.svg_.png" tvg-language="English" group-title="UltraTV One",FX East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115902.m3u8
+#EXTINF:-1 tvg-id="fx.west.us" tvg-name="FX West US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Free-speech-tv-logo.svg/revision/latest?cb=20180302065549" tvg-language="English" group-title="UltraTV One",FX West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114419.m3u8
+#EXTINF:-1 tvg-id="hbo.2.east.us" tvg-name="HBO 2 East US" tvg-logo="https://logo.m3uassets.com/hbo2.png" tvg-language="English" group-title="UltraTV One",HBO 2 East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115907.m3u8
+#EXTINF:-1 tvg-id="hbo.2.west.us" tvg-name="HBO 2 West US" tvg-logo="https://logo.m3uassets.com/hbo2west.png" tvg-language="English" group-title="UltraTV One",HBO 2 West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115908.m3u8
+#EXTINF:-1 tvg-id="hbo.comedy.us" tvg-name="HBO Comedy US" tvg-logo="https://logo.m3uassets.com/hbocomedy.png" tvg-language="English" group-title="UltraTV One",HBO Comedy US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115909.m3u8
+#EXTINF:-1 tvg-id="hbo.comedy.west.us" tvg-name="HBO Comedy West US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18429_h15_aa.png" tvg-language="English" group-title="UltraTV One",HBO Comedy West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115910.m3u8
+#EXTINF:-1 tvg-id="hbo.drama.east.us" tvg-name="HBO Drama East US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/800px-HBO_Drama_Logo.svg.png" tvg-language="English" group-title="UltraTV One",HBO Drama East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115911.m3u8
+#EXTINF:-1 tvg-id="hbo.drama.west.us" tvg-name="HBO Drama West US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/HBO_Drama_Logo.svg/800px-HBO_Drama_Logo.svg.png" tvg-language="English" group-title="UltraTV One",HBO Drama West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115912.m3u8
+#EXTINF:-1 tvg-id="hbo.east.us" tvg-name="HBO East US" tvg-logo="https://logo.m3uassets.com/hbo.png" tvg-language="English" group-title="UltraTV One",HBO East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115906.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.us" tvg-name="HBO Signature US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59363_h15_aa.png" tvg-language="English" group-title="UltraTV One",HBO Signature US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115913.m3u8
+#EXTINF:-1 tvg-id="hbo.signature.west.us" tvg-name="HBO Signature West US" tvg-logo="https://www.pickcinema.com/images/tv/logos/hbosgw.png" tvg-language="English" group-title="UltraTV One",HBO Signature West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115914.m3u8
+#EXTINF:-1 tvg-id="hbo.zone.us" tvg-name="HBO Zone US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59845_h15_aa.png" tvg-language="English" group-title="UltraTV One",HBO Zone US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115915.m3u8
+#EXTINF:-1 tvg-id="hbo.zone.west.us" tvg-name="HBO Zone West US" tvg-logo="https://www.directhd.tv/wp-content/uploads/channels/200x200/HBO_Zone-200.png" tvg-language="English" group-title="UltraTV One",HBO Zone West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115916.m3u8
+#EXTINF:-1 tvg-id="hgtv.east.us" tvg-name="HGTV East US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest?cb=20231006154546" tvg-language="English" group-title="UltraTV One",HGTV East US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114340.m3u8
+#EXTINF:-1 tvg-id="hgtv.west.us" tvg-name="HGTV West US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/HGTV_2010.svg/revision/latest?cb=20231006154546" tvg-language="English" group-title="UltraTV One",HGTV West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114341.m3u8
+#EXTINF:-1 tvg-id="il.urbana.champaign.pbs.will" tvg-name="IL | Urbana-Champaign | PBS WILL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1920px-PBS_logo_2019.svg.png" tvg-language="English" group-title="UltraTV One",IL | Urbana-Champaign | PBS WILL
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/1350577.m3u8
+#EXTINF:-1 tvg-id="caribbean.and.international.hd.ca2.tvg.name.msnbc.us.tvg.logo.https.media1.s.nbcnews.com.i.newscms.2018.21.2442291.msnbc.og.image.c986de7e1bb6ad2281723b692aa61990.png.group.title.drewlivestreams.msnbc.us" tvg-name="MSNBC US" tvg-logo="https://media1.s-nbcnews.com/i/newscms/2018_21/2442291/msnbc-og-image_c986de7e1bb6ad2281723b692aa61990.png" tvg-language="English" group-title="UltraTV One",MSNBC US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116096.m3u8
+#EXTINF:-1 tvg-id="nbc.17.wand.decatur.hd.us" tvg-name="NBC 17 (WAND) Decatur HD US" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" tvg-language="English" group-title="UltraTV One",NBC 17 (WAND) Decatur HD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/72113.m3u8
+#EXTINF:-1 tvg-id="nbc.news.now.us" tvg-name="NBC News NOW US" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/de/NBC_News_Now_2023.svg/revision/latest?cb=20250124160436" tvg-language="English" group-title="UltraTV One",NBC News NOW US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116092.m3u8
+#EXTINF:-1 tvg-id="nbc.us" tvg-name="NBC US" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/12/nbc-new-logo-2022.jpg" tvg-language="English" group-title="UltraTV One",NBC US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114279.m3u8
+#EXTINF:-1 tvg-id="showtime.2.us" tvg-name="Showtime 2 US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11116_h15_aa.png" tvg-language="English" group-title="UltraTV One",Showtime 2 US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115929.m3u8
+#EXTINF:-1 tvg-id="showtime.2.west.us" tvg-name="Showtime 2 West US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58533_h15_ac.png" tvg-language="English" group-title="UltraTV One",Showtime 2 West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115930.m3u8
+#EXTINF:-1 tvg-id="showtime.extreme.us" tvg-name="Showtime Extreme US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s18086_h15_aa.png" tvg-language="English" group-title="UltraTV One",Showtime Extreme US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115931.m3u8
+#EXTINF:-1 tvg-id="showtime.extreme.west.us" tvg-name="Showtime Extreme West US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" tvg-language="English" group-title="UltraTV One",Showtime Extreme West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115932.m3u8
+#EXTINF:-1 tvg-id="showtime.family.zone.us" tvg-name="Showtime Family Zone US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s25274_h15_ac.png" tvg-language="English" group-title="UltraTV One",Showtime Family Zone US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115933.m3u8
+#EXTINF:-1 tvg-id="showtime.family.zone.west.us" tvg-name="Showtime Family Zone West US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s25274_h15_ac.png" tvg-language="English" group-title="UltraTV One",Showtime Family Zone West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115934.m3u8
+#EXTINF:-1 tvg-id="showtime.next.us" tvg-name="SHOWTIME NEXT US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/1200px-Showtime_Next.svg.png" tvg-language="English" group-title="UltraTV One",SHOWTIME NEXT US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115935.m3u8
+#EXTINF:-1 tvg-id="showtime.showcase.uhd.us" tvg-name="Showtime Showcase UHD US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" tvg-language="English" group-title="UltraTV One",Showtime Showcase UHD US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115936.m3u8
+#EXTINF:-1 tvg-id="showtime.showcase.west.us" tvg-name="Showtime Showcase West US" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16153_h15_aa.png" tvg-language="English" group-title="UltraTV One",Showtime Showcase West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115937.m3u8
+#EXTINF:-1 tvg-id="showtime.women.us" tvg-name="Showtime Women US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/1200px-Showtime_Women.svg.png" tvg-language="English" group-title="UltraTV One",Showtime Women US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115938.m3u8
+#EXTINF:-1 tvg-id="showtime.women.west.us" tvg-name="Showtime Women West US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Showtime_Women.svg/2560px-Showtime_Women.svg.png" tvg-language="English" group-title="UltraTV One",Showtime Women West US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115939.m3u8
+#EXTINF:-1 tvg-id="sky.sports.nfl.fhd.uk" tvg-name="Sky Sports NFL FHD UK" tvg-logo="https://logo.mypanel.one/tv-logos-main/tv-logos-main/countries/united-kingdom/sky-sports-nfl-icon-uk.png" tvg-language="English" group-title="UltraTV One",Sky Sports NFL FHD UK
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2113470.m3u8
+#EXTINF:-1 tvg-id="tnt.sports.us" tvg-name="TNT Sports US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/TNT_Sports_2024_vector_logo_black.svg/1920px-TNT_Sports_2024_vector_logo_black.svg.png" tvg-language="English" group-title="UltraTV One",TNT Sports US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2116033.m3u8
+#EXTINF:-1 tvg-id="usa.network.us" tvg-name="USA Network US" tvg-logo="https://pbs.twimg.com/profile_images/1604812613/USA_PR_AVATAR.png" tvg-language="English" group-title="UltraTV One",USA Network US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2114413.m3u8
 #EXTINF:-1 tvg-id="BBCNewsPashto.uk@HD" tvg-name="BBC News Pashto (720p)" tvg-logo="https://static.files.bbci.co.uk/ws/simorgh-assets/public/pashto/images/metadata/poster-1024x576.png" tvg-language="English" group-title="Undefined",BBC News Pashto (720p)
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="BigTenNetwork.us@SD" tvg-name="Big Ten Network (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png" tvg-language="English" group-title="Undefined",Big Ten Network (720p)
@@ -1139,10 +1399,12 @@ https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCT
 https://2-fss-2.streamhoster.com/pl_118/206858-4404454-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RMTV.bg@SD" tvg-name="RMTV (288p)" tvg-logo="https://rmtv.bg/img/logo.png" tvg-language="English" group-title="Undefined",RMTV (288p)
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
-#EXTINF:-1 tvg-id="SCTV11.vn@SD" tvg-name="SCTV11 (720p)" tvg-logo="https://i.imgur.com/ZmFfy9o.png" tvg-language="English" group-title="Undefined",SCTV11 (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8
 #EXTINF:-1 tvg-id="SCTV16.vn@SD" tvg-name="SCTV16 (720p)" tvg-logo="https://i.imgur.com/ldCYtvt.png" tvg-language="English" group-title="Undefined",SCTV16 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8
+#EXTINF:-1 tvg-id="SCTV18.vn@SD" tvg-name="SCTV18 (720p)" tvg-logo="https://i.imgur.com/FfUSlgI.png" tvg-language="English" group-title="Undefined",SCTV18 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8
+#EXTINF:-1 tvg-id="SCTV19.vn@SD" tvg-name="SCTV19 (720p)" tvg-logo="https://i.imgur.com/yBAFZRs.png" tvg-language="English" group-title="Undefined",SCTV19 (720p)
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8
 #EXTINF:-1 tvg-id="SCTV20.vn@SD" tvg-name="SCTV20 (720p)" tvg-logo="https://i.imgur.com/7ABZhfZ.png" tvg-language="English" group-title="Undefined",SCTV20 (720p)
 https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8
 #EXTINF:-1 tvg-id="SCTV3.vn@SD" tvg-name="SCTV3 (720p)" tvg-logo="https://i.imgur.com/tfk298I.png" tvg-language="English" group-title="Undefined",SCTV3 (720p)
@@ -1379,6 +1641,58 @@ https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
 https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
 #EXTINF:-1 tvg-id="Zoom.co@SD" tvg-name="Zoom (Colombia) (1080p)" tvg-logo="https://i.imgur.com/euy5zp6.png" tvg-language="Spanish" group-title="Education",Zoom (Colombia) (1080p)
 http://138.121.15.230:9002/ZOOM/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Acapulco Shore" tvg-logo="" tvg-language="Spanish" group-title="En Español",Acapulco Shore
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/64dab1f835425100080e1e7b/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Casos de la Dra. Polo" tvg-logo="" tvg-language="Spanish" group-title="En Español",Casos de la Dra. Polo
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60d393e5579a420007ee553c/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Celia" tvg-logo="" tvg-language="Spanish" group-title="En Español",Celia
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6a722821ff94431f8bfbc260/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Cine adrenalina" tvg-logo="" tvg-language="Spanish" group-title="En Español",Cine adrenalina
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Cine Amor" tvg-logo="" tvg-language="Spanish" group-title="En Español",Cine Amor
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5f5136317aedfb0007016f93/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Cine aventura" tvg-logo="" tvg-language="Spanish" group-title="En Español",Cine aventura
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60fb2f47c133270007327375/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Cine comedia" tvg-logo="" tvg-language="Spanish" group-title="En Español",Cine comedia
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5f513564e4622a0007c578c0/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Cine Premiere" tvg-logo="" tvg-language="Spanish" group-title="En Español",Cine Premiere
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Cine terror" tvg-logo="" tvg-language="Spanish" group-title="En Español",Cine terror
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Construcciones Asombrosas" tvg-logo="" tvg-language="Spanish" group-title="En Español",Construcciones Asombrosas
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/673249433a61d400087a51ed/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Crimen" tvg-logo="" tvg-language="Spanish" group-title="En Español",Crimen
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6732499ce40c4a0008bb9894/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Crímenes imperfectos" tvg-logo="" tvg-language="Spanish" group-title="En Español",Crímenes imperfectos
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5e94cd036cc69d0007e8a1ba/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="El Capo" tvg-logo="" tvg-language="Spanish" group-title="En Español",El Capo
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6a7228e19307bc770a5b440c/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Estrella News" tvg-logo="" tvg-language="Spanish" group-title="En Español",Estrella News
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="EstrellaTV" tvg-logo="" tvg-language="Spanish" group-title="En Español",EstrellaTV
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5cf0622da00ca1e2f6fac712/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Investiga" tvg-logo="" tvg-language="Spanish" group-title="En Español",Investiga
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="La Familia del Barrio" tvg-logo="" tvg-language="Spanish" group-title="En Español",La Familia del Barrio
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/668c566d08d5490008075948/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="La novia de Estambul" tvg-logo="" tvg-language="Spanish" group-title="En Español",La novia de Estambul
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/6a7b7c50307dc8b67b372008/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Más adrenalina" tvg-logo="" tvg-language="Spanish" group-title="En Español",Más adrenalina
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/687fea9a4fa995eff284a1c8/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Misterios sin resolver" tvg-logo="" tvg-language="Spanish" group-title="En Español",Misterios sin resolver
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5f4d882d5233170007ee880e/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Novelas" tvg-logo="" tvg-language="Spanish" group-title="En Español",Pluto TV Novelas
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5cf96c0222df39f1a338d163/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Sala de Emergencias: Historias Inéditas" tvg-logo="" tvg-language="Spanish" group-title="En Español",Sala de Emergencias: Historias Inéditas
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/66ba53cda4ee2700083fac09/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo telenovelas clásicas" tvg-logo="" tvg-language="Spanish" group-title="En Español",Telemundo telenovelas clásicas
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Íconos Latinos" tvg-logo="" tvg-language="Spanish" group-title="En Español",Vevo Íconos Latinos
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/64d161c93c785e0008df575e/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Vevo Regional Mexicano" tvg-logo="" tvg-language="Spanish" group-title="En Español",Vevo Regional Mexicano
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/64dab5fe35425100080e2991/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
+#EXTINF:-1 tvg-id="" tvg-name="Vidas Extremas" tvg-logo="" tvg-language="Spanish" group-title="En Español",Vidas Extremas
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/673249afc7626f0008c7205d/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-name="Azteca Internacional (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" tvg-language="Spanish" group-title="Entertainment",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="BonceTV.cw@SD" tvg-name="Bonce TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/7cVkllH.png" tvg-language="Spanish" group-title="Entertainment",Bonce TV (480p) [Not 24/7]
@@ -1677,6 +1991,8 @@ https://jmp2.uk/plu-645952687cb4b100084ed52e.m3u8
 https://jmp2.uk/plu-5dcde2ac4bc6c500094ab45b.m3u8
 #EXTINF:-1 tvg-id="PlutoTVKids.us@LatAm" tvg-name="Pluto TV Kids (United States) LatAm" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" tvg-language="Spanish" group-title="Kids",Pluto TV Kids (United States) LatAm
 https://jmp2.uk/plu-5dd6dae8ce788b0009eaf77b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon en español" tvg-logo="" tvg-language="Spanish" group-title="Kids",Pokémon en español
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/69e6be40fde57cd5ba562b29/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="JusticiaTV.mx@SD" tvg-name="Justicia TV (Mexico) (720p)" tvg-logo="https://i.imgur.com/zyAS1hk.png" tvg-language="Spanish" group-title="Legislative",Justicia TV (Mexico) (720p)
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.pe@SD" tvg-name="Justicia TV (Peru) (1080p)" tvg-logo="https://i.imgur.com/VOjLXJd.png" tvg-language="Spanish" group-title="Legislative",Justicia TV (Peru) (1080p)
@@ -1743,6 +2059,8 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 https://d3bsgqzbpkrvbb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w288eaw03izg1/XITE_Nuevo_Latino.m3u8
 #EXTINF:-1 tvg-id="XITESiempreLatino.us@SD" tvg-name="XITE Siempre Latino (1080p)" tvg-logo="https://i.imgur.com/bwmIEgG.png" tvg-language="Spanish" group-title="Music",XITE Siempre Latino (1080p)
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV Flow Latino" tvg-logo="" tvg-language="Spanish" group-title="Music Videos",MTV Flow Latino
+https://stitcher.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?terminate=false&sid=WEB-45961ff4-d9cc-44b0-9a73-6e39ffde45ad&deviceDNT=0&deviceModel=web&deviceVersion=web&deviceId=web&appVersion=web&deviceType=web&deviceMake=web
 #EXTINF:-1 tvg-id="Canal26.ar@SD" tvg-name="Canal 26 (Argentina) (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" tvg-language="Spanish" group-title="News",Canal 26 (Argentina) (1080p)
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol" tvg-name="DW Espanol (1080p)" tvg-logo="https://i.imgur.com/8MRNFb9.png" tvg-language="Spanish" group-title="News",DW Espanol (1080p)
@@ -1919,6 +2237,12 @@ https://5ca3e84a76d30.streamlock.net/tv43gto/tv43gto.smil/.m3u8
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1 tvg-id="BeachTVPanamaCity.us@SD" tvg-name="Beach TV Panama City (720p)" tvg-logo="https://i.imgur.com/HCQDvEe.png" tvg-language="Spanish" group-title="Travel",Beach TV Panama City (720p)
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="hbo.latino.us" tvg-name="HBO Latino US" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" tvg-language="Spanish" group-title="UltraTV One",HBO Latino US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115918.m3u8
+#EXTINF:-1 tvg-id="hbo.latino.west.us" tvg-name="HBO Latino WEST US" tvg-logo="https://methodgroupe.com/wp-content/uploads/2020/08/Client-logos_0030_170124_ClientLogos_16.png" tvg-language="Spanish" group-title="UltraTV One",HBO Latino WEST US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115971.m3u8
+#EXTINF:-1 tvg-id="starz.encore.espa.ol.us" tvg-name="Starz Encore Español US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Starz_Encore_Espa%C3%B1ol_Logo_2022.svg/2560px-Starz_Encore_Espa%C3%B1ol_Logo_2022.svg.png" tvg-language="Spanish" group-title="UltraTV One",Starz Encore Español US
+http://ultratv.one:2095/live/hCPtsREFtA/Xj25tg0ZXi/2115954.m3u8
 #EXTINF:-1 tvg-id="BHTV35.us@SD" tvg-name="BHTV35 (720p)" tvg-logo="https://i.imgur.com/3Gqc5f2.png" tvg-language="Spanish" group-title="Undefined",BHTV35 (720p)
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal13LaRioja.ar@SD" tvg-name="Canal 13 La Rioja (480p)" tvg-logo="https://i.imgur.com/OI97Sgq.png" tvg-language="Spanish" group-title="Undefined",Canal 13 La Rioja (480p)
