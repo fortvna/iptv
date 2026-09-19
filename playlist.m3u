@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:On Air
-# Updated 2026-09-19T04:42:25.435Z · English, Spanish, French · working streams only
+# Updated 2026-09-19T04:44:49.665Z · English, Spanish, French · working streams only
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="750 BBC Earth" tvg-logo="https://d2i0hcnfudruct.cloudfront.net/BBCEarth/LG_BBC_EARTH_LOGO_WHITE_800x200.png" tvg-language="English" group-title="English · Documentary",750 BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f74cf7effbe690040689f41-us" tvg-name="A&E Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png" tvg-language="English" group-title="English · Documentary",A&E Crime 360
