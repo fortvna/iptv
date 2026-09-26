@@ -15,6 +15,7 @@ https://raw.githubusercontent.com/fortvna/iptv/main/playlist.m3u
 ## What is in it
 
 - English, Spanish, and French only
+- `group-title` is language only (`English` / `Spanish` / `French`) — no genre folders
 - Streams probed for real HLS / MPEG-TS content
 - Dead streams dropped
 - A previously-good stream is held one extra cycle if it fails once
