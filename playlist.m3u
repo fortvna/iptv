@@ -1,6 +1,6 @@
 #EXTM3U
 #PLAYLIST:On Air
-# Updated 2026-09-26T06:51:16.832Z · English, Spanish, French · working streams only
+# Updated 2026-09-26T07:24:43.612Z · English, Spanish, French · working streams only
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-name="750 BBC Earth" tvg-logo="https://d2i0hcnfudruct.cloudfront.net/BBCEarth/LG_BBC_EARTH_LOGO_WHITE_800x200.png" tvg-language="English" group-title="English · Documentary",750 BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-5f74cf7effbe690040689f41-us" tvg-name="A&E Crime 360" tvg-logo="https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png" tvg-language="English" group-title="English · Documentary",A&E Crime 360
@@ -905,8 +905,12 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-67a147a71145
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-5eea605574085f0040ddc782/?X-Plex-Token=23atLndtTXLLXZxq6PLJ
 #EXTINF:-1 tvg-id="5e54187aae660e00093561d6-us" tvg-name="Game Show Central" tvg-logo="https://images.pluto.tv/channels/5e54187aae660e00093561d6/colorLogoPNG.png" tvg-language="English" group-title="English · General",Game Show Central
 https://jmp2.uk/plu-5e54187aae660e00093561d6.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-64d2bdf1b18b113e0c610113-us" tvg-name="GameTVGO" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8c3aad2c9b28628409cee12512aecb32.png" tvg-language="English" group-title="English · General",GameTVGO
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-64d2bdf1b18b113e0c610113/?X-Plex-Token=23atLndtTXLLXZxq6PLJ
 #EXTINF:-1 tvg-id="60faf9ddfcc1f200070a5932-us" tvg-name="Garfield and Friends" tvg-logo="https://images.pluto.tv/channels/60faf9ddfcc1f200070a5932/colorLogoPNG.png" tvg-language="English" group-title="English · General",Garfield and Friends
 https://jmp2.uk/plu-60faf9ddfcc1f200070a5932.m3u8
+#EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-67db5c68d66f778a752f8203-us" tvg-name="Gata Salvaje" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d6690839-646f-43fc-bd75-b508f908d1ee/Plex_GataSalvaje_750x500_ChannelLogo_Light_RDX.png" tvg-language="English" group-title="English · General",Gata Salvaje
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-67db5c68d66f778a752f8203/?X-Plex-Token=23atLndtTXLLXZxq6PLJ
 #EXTINF:-1 tvg-id="GemsTV.uk" tvg-name="GemsTV" tvg-logo="https://i.imgur.com/IR2sTag.png" tvg-language="English" group-title="English · General",GemsTV Ⓢ
 https://lo3.gemporia.com/abrgemporiaukgfx/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="64e561a4354251000823a0e0-us" tvg-name="Ghost Hunters" tvg-logo="https://images.pluto.tv/channels/64e561a4354251000823a0e0/colorLogoPNG.png" tvg-language="English" group-title="English · General",Ghost Hunters
@@ -1369,8 +1373,6 @@ https://jmp2.uk/plu-5b4e96a0423e067bd6df6901.m3u8
 https://jmp2.uk/plu-656538f8954b020008d389db.m3u8
 #EXTINF:-1 tvg-id="USBB1500001GD" tvg-name="USA Today" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1500001GD_20250325T020255SQUARE.png" tvg-language="English" group-title="English · General",USA Today
 https://jmp2.uk/stvp-USBB1500001GD
-#EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607" tvg-name="USA TODAY" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png" tvg-language="English" group-title="English · General",USA TODAY
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60df3e18541143002f3b8607.m3u8
 #EXTINF:-1 tvg-id="608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607" tvg-name="USA TODAY" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png" tvg-language="English" group-title="English · General",USA TODAY
 https://jmp2.uk/plex-608049aefa2b8ae93c2c3a63-60df3e18541143002f3b8607.m3u8
 #EXTINF:-1 tvg-id="64305451fc3be5947773c339-60df3e18541143002f3b8607" tvg-name="USA TODAY" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png" tvg-language="English" group-title="English · General",USA TODAY
@@ -2161,8 +2163,6 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="https://i.imgur.com/vyrc1I1.png" tvg-language="English" group-title="English · News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="2be13775-7176-4b90-98d7-04c90ffe3b5a" tvg-name="CNN" tvg-logo="https://s3.aynaott.com/storage/e0b6da4715f468eb39591911a0597546" tvg-language="English" group-title="English · News",CNN
-https://tvsen6.aynaott.com/cnn/index.m3u8?e=1784102537&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=3d319d99045811bace569a7cc2885eb3
 #EXTINF:-1 tvg-id="6a1610bebdf296985fd95603-66b4fcc2530e39ea2ee79545-us" tvg-name="CNN Headlines" tvg-logo="https://provider-static.plex.tv/epg/cms/production/de3851fb-9598-4d13-8e03-f421418c9b5b/CNN_Headlines_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png" tvg-language="English" group-title="English · News",CNN Headlines
 https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-66b4fcc2530e39ea2ee79545/?X-Plex-Token=23atLndtTXLLXZxq6PLJ
 #EXTINF:-1 tvg-id="66c45c274f25dd00092739ee" tvg-name="CNN Headlines" tvg-logo="https://images.pluto.tv/channels/66c45c274f25dd00092739ee/colorLogoPNG_1780668932155.png" tvg-language="English" group-title="English · News",CNN Headlines
@@ -2321,6 +2321,8 @@ https://xemzi.short.gy/1000018
 https://jmp2.uk/stvp-ES3400004SS
 #EXTINF:-1 tvg-id="FR3400002VW" tvg-name="Sky News International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3400002VW_20250624T020534SQUARE.png" tvg-language="English" group-title="English · News",Sky News International
 https://jmp2.uk/stvp-FR3400002VW
+#EXTINF:-1 tvg-id="SkyNewsUrdu.pk@SD" tvg-name="Sky News Urdu (720p)" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/sky-news-urdu-pk.png" tvg-language="English" group-title="English · News",Sky News Urdu (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/skynews/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve@English" tvg-name="Telesur English (480p)" tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-language="English" group-title="English · News",Telesur English (480p)
 https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve@EnglishHD" tvg-name="Telesur English HD (1080p)" tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-language="English" group-title="English · News",Telesur English HD (1080p)
@@ -3819,8 +3821,6 @@ https://jmp2.uk/plu-62f3e8ad2a8e8000077b013d.m3u8
 http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr@SD" tvg-name="Gulli" tvg-logo="https://i.imgur.com/kqYssbW.png" tvg-language="French" group-title="French · Kids",Gulli
 http://99.27.51.147:8080/Gulli/index.m3u8
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Gulli.png" tvg-language="French" group-title="French · Kids",Gulli
-https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="GulliGirl.ru@SD" tvg-name="Gulli Girl (720p)" tvg-logo="https://i.imgur.com/lbViDuC.png" tvg-language="French" group-title="French · Kids",Gulli Girl (720p)
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FR1300003HM" tvg-name="TV5 MONDE+ Chefs" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1300003HM_20251013T054012SQUARE.png" tvg-language="French" group-title="French · Lifestyle",TV5 MONDE+ Chefs
@@ -3839,6 +3839,8 @@ https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
 https://jmp2.uk/stvp-FR1400003Y0
 #EXTINF:-1 tvg-id="FRBD4100006OC" tvg-name="BFM Business" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD4100006OC_20241015T040218SQUARE.png" tvg-language="French" group-title="French · News",BFM Business
 https://jmp2.uk/stvp-FRBD4100006OC
+#EXTINF:-1 tvg-id="BFMGrandLille.fr" tvg-name="BFM Grand Lille" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Grand-Lille-TV.png" tvg-language="French" group-title="French · News",BFM Grand Lille
+https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
 #EXTINF:-1 tvg-id="FR300004J5" tvg-name="BFM Grands Reportages" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR300004J5_20241015T040221SQUARE.png" tvg-language="French" group-title="French · News",BFM Grands Reportages
 https://jmp2.uk/stvp-FR300004J5
 #EXTINF:-1 tvg-id="FRBD410000783" tvg-name="BFM TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD410000783_20251209T004432SQUARE.png" tvg-language="French" group-title="French · News",BFM TV
